@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @belotesagar
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Angular 11
+- 🌱 I’m currently learning Angular 17
 - 💞️ I’m looking to collaborate on Web Developement
 - 📫 How to reach me sagarbelotes@gmail.com
 
